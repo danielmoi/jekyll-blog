@@ -1,1 +1,1 @@
-https://danielmoi.github.io/jekyll-blog/
+https://danielmoi.github.io/jekyll-demo
